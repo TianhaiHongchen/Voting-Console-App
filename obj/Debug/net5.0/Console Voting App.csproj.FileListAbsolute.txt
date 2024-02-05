@@ -1,0 +1,16 @@
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.exe
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.deps.json
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.runtimeconfig.json
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.dll
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\ref\Console Voting App.dll
+C:\Users\user\OneDrive\Console Voting App\bin\Debug\net5.0\Console Voting App.pdb
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.AssemblyInfo.cs
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.dll
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\ref\Console Voting App.dll
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.pdb
+C:\Users\user\OneDrive\Console Voting App\obj\Debug\net5.0\Console Voting App.genruntimeconfig.cache

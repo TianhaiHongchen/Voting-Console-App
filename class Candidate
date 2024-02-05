@@ -1,0 +1,19 @@
+using System;
+public class Candidate
+{
+    private string CandidateName {get; set;}
+
+    private int StateOfOrigin {get; set;}
+
+    private string Post {}
+    private string party;
+    private int voteCount;
+
+    public string CandidateName
+    {
+        set{candidateName = value;}
+        get{return candidateName;}
+    }
+
+
+}

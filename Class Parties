@@ -1,0 +1,6 @@
+using System;
+public class Party
+{
+    private string partyName;
+    private 
+}
